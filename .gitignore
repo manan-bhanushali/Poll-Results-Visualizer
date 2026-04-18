@@ -37,5 +37,4 @@ ENV/
 data/poll_data.csv
 outputs/*
 !outputs/.gitkeep
-images/*.png
-!images/.gitkeep
+images/.gitkeep
